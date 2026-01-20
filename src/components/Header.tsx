@@ -39,7 +39,7 @@ export default function Header() {
 				<div className="relative w-full max-w-md">
 					<Input
 						type="text"
-						placeholder="Search pulse"
+						placeholder="Search threadly"
 						className="pl-10 rounded-full focus-visible:ring-0"
 					/>
 					<Search className="absolute left-3 top-2.5 h-4 w-4 text-gray-400" />

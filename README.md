@@ -1,6 +1,6 @@
-# Pulse
+# Threadly
 
-An open-source, modern forum platform built with Next.js. Pulse provides a clean, intuitive interface for community discussions with real-time updates and robust moderation tools.
+An open-source, modern forum platform built with Next.js. Threadly provides a clean, intuitive interface for community discussions with real-time updates and robust moderation tools.
 
 ## 🌟 Features
 
@@ -38,8 +38,8 @@ An open-source, modern forum platform built with Next.js. Pulse provides a clean
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pulse.git
-cd pulse
+git clone https://github.com/yourusername/threadly.git
+cd threadly
 ```
 
 2. Install dependencies:
@@ -59,7 +59,7 @@ cp .env.example .env.local
 ```
 Edit `.env.local` with your configuration:
 ```env
-DATABASE_URL="postgresql://user:password@localhost:5432/pulse"
+DATABASE_URL="postgresql://user:password@localhost:5432/threadly"
 NEXTAUTH_SECRET="your-secret"
 NEXTAUTH_URL="http://localhost:3000"
 ```

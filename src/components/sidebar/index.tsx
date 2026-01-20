@@ -42,7 +42,7 @@ export default function Sidebar() {
 							href="/"
 							className="text-xl font-bold flex items-center gap-2"
 						>
-							<span className="text-indigo-600">📟</span> Pulse
+							<span className="text-indigo-600">📟</span> Threadly
 						</Link>
 					</div>
 
